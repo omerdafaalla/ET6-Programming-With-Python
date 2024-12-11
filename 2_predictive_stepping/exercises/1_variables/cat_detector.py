@@ -7,7 +7,7 @@ Asks the use for the input "cat", throws an assertion error if the input is wron
 
 """
 
-maybe_cat = input('Enter "cat": ')
+maybe_cat = input('Enter cat: ')
 
 is_cat = maybe_cat == "cat"
 
